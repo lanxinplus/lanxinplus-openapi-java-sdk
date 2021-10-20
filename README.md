@@ -66,3 +66,6 @@ mvn -Dtest=AuthApiTest#v1AppTokenCreateTest test
 - [蓝信开放平台文档中心](https://openapi.lanxin.cn/doc/#/)
 
 [蓝信开放平台API]: https://openapi.lanxin.cn/doc/#/server-api/
+
+## License
+> - MIT License, see [license file](LICENSE)
